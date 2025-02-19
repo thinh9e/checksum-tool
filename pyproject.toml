@@ -1,0 +1,11 @@
+[project]
+name = "checksum-tool"
+version = "0.1.0"
+description = "Checksum Tool"
+readme = "README.md"
+license = "GPL-3.0"
+authors = [
+    { name = "Thinh Nguyen Phuoc", email = "npthinh1996@gmail.com" }
+]
+requires-python = ">=3.13"
+dependencies = []
